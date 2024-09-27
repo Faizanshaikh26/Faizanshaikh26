@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Faizan Shaikh</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/200.webp?cid=790b761170n5zrm1zngfbkew55irjuq349w3xfs7ftufw06f&ep=v1_gifs_search&rid=200.webp&ct=g">
+<img  alt="Coding" width="400" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/200.webp?cid=790b761170n5zrm1zngfbkew55irjuq349w3xfs7ftufw06f&ep=v1_gifs_search&rid=200.webp&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizanshaikh26&label=Profile%20views&color=0e75b6&style=flat" alt="faizanshaikh26" /> </p>
 

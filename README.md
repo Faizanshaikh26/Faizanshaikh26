@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Faizan Shaikh</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/200.webp?cid=790b761170n5zrm1zngfbkew55irjuq349w3xfs7ftufw06f&ep=v1_gifs_search&rid=200.webp&ct=g">
 
 
 

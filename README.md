@@ -1,13 +1,14 @@
 <div align="center" style="border: 2px solid #2C858D; border-radius: 10px; padding: 20px; background-color: #C9FFD5; width: 80%; margin-bottom: 20px;">
     <a href="https://rishavchanda.io">
-        <img src="https://cdn.pixabay.com/photo/2022/05/12/03/19/binary-code-7190628_960_720.jpg" alt="MasterHead" style="border-radius: 10px; width: 100%; max-width: 800px;">
+        <img src="https://cdn.pixabay.com/photo/2022/05/12/03/19/binary-code-7190628_960_720.jpg" alt="MasterHead" style="border-radius: 10px; width: 100%; max-width: 600px;"> <!-- Adjusted max-width -->
     </a>
 </div>
 
 <h1 align="center">Hi 👋, I'm Faizan Shaikh</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
-<img alt="Coding" width="400" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/200.webp?cid=790b761170n5zrm1zngfbkew55irjuq349w3xfs7ftufw06f&ep=v1_gifs_search&rid=200.webp&ct=g">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/200.webp?cid=790b761170n5zrm1zngfbkew55irjuq349w3xfs7ftufw06f&ep=v1_gifs_search&rid=200.webp&ct=g">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizanshaikh26&label=Profile%20views&color=0e75b6&style=flat" alt="faizanshaikh26" /> </p>
 

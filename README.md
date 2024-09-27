@@ -1,6 +1,6 @@
 <div align="center" style="border: 2px solid #2C858D; border-radius: 10px; padding: 10px; background-color: #C9FFD5;">
     <a href="https://rishavchanda.io">
-        <img src="https://tse2.mm.bing.net/th?id=OIP.ZbV_6bYYRF-X3n0OO-IewQHaC9&pid=Api&P=0&h=220" alt="MasterHead" style="border-radius: 10px;">
+        <img src="https://media.istockphoto.com/id/1193278024/vector/application-of-smartphone-with-business-graph-and-analytics-data-on-isometric-mobile-phone.jpg?s=612x612&w=0&k=20&c=cV3zqN7LAi6_qAqW45_vZMg7HVRSt4_2NV-SRJ-FK04=" alt="MasterHead" style="border-radius: 10px;">
     </a>
 </div>
 

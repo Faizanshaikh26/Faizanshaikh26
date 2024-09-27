@@ -1,4 +1,8 @@
-[![MasterHead](https://tse1.mm.bing.net/th?id=OIP.H6SYrs-iijIZmcxdKsLwHAHaDt&pid=Api&P=0&h=220)](https://rishavchanda.io)
+<div align="center" style="border: 2px solid #2C858D; border-radius: 10px; padding: 10px; background-color: #C9FFD5;">
+    <a href="https://rishavchanda.io">
+        <img src="https://tse1.mm.bing.net/th?id=OIP.H6SYrs-iijIZmcxdKsLwHAHaDt&pid=Api&P=0&h=220" alt="MasterHead" style="border-radius: 10px;">
+    </a>
+</div>
 
 <h1 align="center">Hi 👋, I'm Faizan Shaikh</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>

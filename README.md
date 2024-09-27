@@ -1,6 +1,6 @@
 <div align="center" style="border: 2px solid #2C858D; border-radius: 10px; padding: 10px; background-color: #C9FFD5;">
     <a href="https://rishavchanda.io">
-        <img src="https://tse1.mm.bing.net/th?id=OIP.H6SYrs-iijIZmcxdKsLwHAHaDt&pid=Api&P=0&h=220" alt="MasterHead" style="border-radius: 10px;">
+        <img src="https://images.pexels.com/photos/2653362/pexels-photo-2653362.jpeg?auto=compress&cs=tinysrgb&w=600" alt="MasterHead" style="border-radius: 10px;">
     </a>
 </div>
 

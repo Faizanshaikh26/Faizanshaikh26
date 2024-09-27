@@ -1,4 +1,4 @@
-[![MasterHead](https://images.pexels.com/photos/1181298/pexels-photo-1181298.jpeg?auto=compress&cs=tinysrgb&w=600)](https://rishavchanda.io)
+[![MasterHead](https://cdn.pixabay.com/photo/2017/10/31/19/05/web-design-2906159_960_720.jpg)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Faizan Shaikh</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>

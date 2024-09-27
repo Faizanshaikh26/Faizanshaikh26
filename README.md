@@ -1,4 +1,4 @@
-[![MasterHead](https://images.pexels.com/photos/270366/pexels-photo-270366.jpeg?auto=compress&cs=tinysrgb&w=600)](https://rishavchanda.io)
+[![MasterHead](https://tse1.mm.bing.net/th?id=OIP.H6SYrs-iijIZmcxdKsLwHAHaDt&pid=Api&P=0&h=220)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Faizan Shaikh</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>

@@ -1,6 +1,6 @@
 <div align="center" style="border: 2px solid #2C858D; border-radius: 10px; padding: 10px; background-color: #C9FFD5;">
     <a href="https://rishavchanda.io">
-        <img src="https://media.istockphoto.com/id/1193278024/vector/application-of-smartphone-with-business-graph-and-analytics-data-on-isometric-mobile-phone.jpg?s=612x612&w=0&k=20&c=cV3zqN7LAi6_qAqW45_vZMg7HVRSt4_2NV-SRJ-FK04=" alt="MasterHead" style="border-radius: 10px;">
+        <img src="https://media.istockphoto.com/id/1439425791/photo/digital-technology-software-development-concept-coding-programmer-working-on-laptop-with.jpg?s=612x612&w=0&k=20&c=43WZfDZcnI2lULx83NVAtFiGyzKHzi4HyLqYZgggX-c=" alt="MasterHead" style="border-radius: 10px;">
     </a>
 </div>
 

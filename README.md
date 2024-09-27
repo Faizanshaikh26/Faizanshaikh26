@@ -1,6 +1,6 @@
 <div align="center" style="border: 2px solid #2C858D; border-radius: 10px; padding: 20px; background-color: #C9FFD5; width: 80%; margin-bottom: 20px;">
     <a href="https://rishavchanda.io">
-        <img src="https://www.istockphoto.com/en/photo/programming-code-abstract-technology-background-of-software-deve-gm537331500-95204155" alt="MasterHead" style="border-radius: 10px; width: 100%; max-width: 800px;">
+        <img src="https://cdn.pixabay.com/photo/2022/05/12/03/19/binary-code-7190628_960_720.jpg" alt="MasterHead" style="border-radius: 10px; width: 100%; max-width: 800px;">
     </a>
 </div>
 
